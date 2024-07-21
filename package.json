@@ -1590,7 +1590,7 @@
     "style-loader": "^3.3.1",
     "ts-loader": "^9.4.4",
     "typescript": "^5.2.2",
-    "vite": "^4.5.2",
+    "vite": "^4.5.3",
     "vsce": "^2.6.7",
     "vscode-extension-tester": "^7.0.0",
     "vscode-nls-dev": "^3.3.1",
@@ -1619,7 +1619,7 @@
     "pinia": "^2.1.6",
     "plotly.js-dist": "^1.54.1",
     "plotly.js-dist-min": "^2.26.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.34",
     "sanitize-html": "^2.12.1",
     "stream-browserify": "^3.0.0",
     "tar-fs": "^2.0.0",
@@ -1629,8 +1629,8 @@
     "vscode-nls": "^4.0.0",
     "vue": "^3.3.4",
     "winston": "^2.3.1",
-    "ws": "^7.4.6",
-    "xml2js": "^0.5.0",
+    "ws": "^7.5.10",
+    "xml2js": "^0.6.0",
     "yauzl": "^2.10.0"
   },
   "alias": {
